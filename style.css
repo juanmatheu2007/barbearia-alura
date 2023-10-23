@@ -17,4 +17,19 @@ body {
     color: red;
     font-size: 18px;
     }
-    
+    body {
+        background: #CCCCCC;
+        }
+        
+        h1 {
+        text-align: center;
+        }
+        
+        p {
+        text-align: center;
+        }
+        
+        #missao {
+        color: red;
+        font-size: 18px;
+        }
