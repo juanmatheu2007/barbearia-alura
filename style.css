@@ -1,7 +1,7 @@
 
 
 
-body {
+.principal{
     background: #CCCCCC;
     }
     
@@ -33,3 +33,10 @@ body {
         color: red;
         font-size: 18px;
         }
+        #banner{ 
+            width: 100
+            .beneficios-titulo{
+                text-align:ceneter;
+            }
+
+        
