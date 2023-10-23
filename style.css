@@ -38,5 +38,10 @@
             .beneficios-titulo{
                 text-align:ceneter;
             }
+            .itens{
+                font-style:italic;
+            }
 
-        
+        .beneficies{
+            background:#FFFFFF;
+        }
